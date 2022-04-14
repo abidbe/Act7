@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KelasAsqlite">
         <activity
+            android:name=".activity_edit_teman"
+            android:exported="false" />
+        <activity
             android:name=".TemanBaru"
             android:exported="false" />
         <activity
